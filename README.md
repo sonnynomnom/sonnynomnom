@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#30NitesOfCode:
+[Check out my progress!](https://codedex-git-feature-30-nites-of-code-codedex.vercel.app/@sonny/30-nites-of-code)  
+![@sonny #30NitesOfCode](https://codedex-jf4fg5u54-codedex.vercel.app/api/petStatus?user=sonny)
