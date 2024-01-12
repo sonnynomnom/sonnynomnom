@@ -1,6 +1,6 @@
 ### Howdy 👋
 
-I'm Sonny, Founder & Chief Vibes Officer @ Codédex. 
+I'm Sonny, Founder & Chief Vibes Officer @ Codédex, building a brand new learn to code platform.
 
 <!--
 **sonnynomnom/sonnynomnom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
