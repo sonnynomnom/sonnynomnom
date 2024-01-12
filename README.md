@@ -9,7 +9,7 @@ Give our GitHub a follow!
 
 - Family moved a bunch: Shanghai 🇨🇳, Paris 🇫🇷, Göttingen 🇩🇪, Eugene 🇺🇸 all before 6th grade.
 - I studied Computer Science at Ohio State University. Then came to NYC to do my PhD (dropped out).
-- I taught in the classroom at Columbia, NYU, CUNY, and then worked for an EdTech platform for five years and we sold!
+- I taught in the classroom at Columbia, NYU, CUNY, and then worked for an EdTech platform for five years before we sold!
 
 ### Fun facts:
 - My high school band Attica was signed to an indie record label.
