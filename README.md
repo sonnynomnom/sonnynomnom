@@ -1,8 +1,9 @@
 ### Howdy 👋
 
-![visitors](https://vbr.wocr.tk/badge?page_id=sonnynomnom.sonnynomnom&color=00cf00)
+I'm Sonny, Founder & Chief Vibes Officer @ Codédex, building the learn to code platform in my head for 10+ years. 
+Give our GitHub a follow!
 
-I'm Sonny, Founder & Chief Vibes Officer @ Codédex, building the learn to code platform in my head for 10+ years. Give our GitHub a follow!
+![visitors](https://vbr.wocr.tk/badge?page_id=sonnynomnom.sonnynomnom&color=00cf00)
 
 <!--
 **sonnynomnom/sonnynomnom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
