@@ -1,17 +1,17 @@
-### Howdy 👋
+## Howdy 👋
 
 I'm Sonny, Founder & Chief Vibes Officer @ Codédex and I'm based in Brooklyn, NY.
 Give our GitHub a follow!
 
 ![visitors](https://vbr.wocr.tk/badge?page_id=sonnynomnom.sonnynomnom&color=00cf00)
 
-## About me:
+### About me:
 
 - Family moved a bunch: Shanghai 🇨🇳, Paris 🇫🇷, Göttingen 🇩🇪, Eugene 🇺🇸 all before 6th grade.
 - I studied Computer Science at Ohio State University. Then came to NYC to do my PhD (dropped out).
 - I taught in the classroom at Columbia, NYU, CUNY, and then worked for an EdTech platform for five years and we sold!
 
-## Fun facts:
+### Fun facts:
 - My high school band Attica was signed to an indie record label.
 - I have 9.5k hours in the game Dota 2. -.-
 - I'm a huge foodie!
