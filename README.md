@@ -3,8 +3,6 @@
 I'm Sonny, Founder & Chief Vibes Officer @ Codédex and I'm based in Brooklyn, NY.
 Give our GitHub a follow!
 
-![visitors](https://vbr.wocr.tk/badge?page_id=sonnynomnom.sonnynomnom&color=00cf00)
-
 ### About me:
 
 - Family moved a bunch: Shanghai 🇨🇳, Paris 🇫🇷, Göttingen 🇩🇪, Oregon 🇺🇸, Ohio 🇺🇸, New York 🇺🇸.
