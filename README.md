@@ -5,7 +5,7 @@ Give our GitHub a follow!
 
 ### About me:
 
-- Family moved a bunch: Shanghai 🇨🇳, Paris 🇫🇷, Göttingen 🇩🇪, Oregon 🇺🇸, Ohio 🇺🇸, New York 🇺🇸.
+- Fam moved a bunch: Shanghai 🇨🇳, Paris 🇫🇷, Göttingen 🇩🇪, Oregon 🇺🇸, Ohio 🇺🇸, New York 🇺🇸.
 - I studied Computer Science at Ohio State University. Then came to NYC to do my PhD (dropped out).
 - I taught at Columbia, NYU, CUNY, and then worked for an EdTech startup for five years before we sold it for $525m.
 
