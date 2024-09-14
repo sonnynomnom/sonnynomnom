@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 -->
 
 **#30NitesOfCode:**
-[Check out my progress](https://codedex.io/@sonny/30-nites-of-code)  
+[Check out my progress](https://www.codedex.io/@sonny/30-nites-of-code?pet=season-one)  
 
 ![@sonny #30NitesOfCode](https://codedex.io/api/petStatus?user=sonny)
