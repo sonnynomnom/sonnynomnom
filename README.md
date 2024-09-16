@@ -8,7 +8,7 @@ Give our GitHub a follow!
 - Fam moved a bunch: Shanghai 🇨🇳, Paris 🇫🇷, Göttingen 🇩🇪, Oregon 🇺🇸, Ohio 🇺🇸, New York 🇺🇸.
 - I studied Computer Science at Ohio State University (6 brtual years lol). Then came to NYC to do my PhD (dropped out).
 - I taught CS at Columbia, NYU, CUNY, and led the charge at an EdTech startup for five years before we sold for $525m.
-- I'm now building the startup of my dreams.
+- And now finally, I'm now building the startup of my dreams.
 
 ### Fun facts:
 - My high school band Attica was signed to an indie record label.
