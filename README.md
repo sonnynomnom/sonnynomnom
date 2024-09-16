@@ -6,7 +6,7 @@ Give our GitHub a follow!
 ### About me:
 
 - Fam moved a bunch: Shanghai 🇨🇳, Paris 🇫🇷, Göttingen 🇩🇪, Oregon 🇺🇸, Ohio 🇺🇸, New York 🇺🇸.
-- I studied Computer Science at Ohio State University. Then came to NYC to do my PhD (dropped out).
+- I studied Computer Science at Ohio State University (6 brtual years lol). Then came to NYC to do my PhD (dropped out).
 - I taught CS at Columbia, NYU, CUNY, and led the charge at an EdTech startup for five years before we sold for $525m.
 - I'm now building the startup of my dreams.
 
