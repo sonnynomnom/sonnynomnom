@@ -11,7 +11,7 @@ I'm Sonny, Founder & Chief Vibes Officer @ [Codédex](https://www.codedex.io) an
 
 ### Fun facts:
 - My high school band Attica was signed to an indie record label.
-- I have 10k hours in the game Dota 2 and attended MLG Columbus and TI8 in Vancouver. -.-
+- I have 10k hours in the game Dota 2 and attended MLG in Columbus (2013) and TI8 in Vancouver (2018). -.-
 - HUGE foodie! It's a problem.
 
 <!--
