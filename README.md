@@ -12,7 +12,7 @@ Give our GitHub a follow!
 
 ### Fun facts:
 - My high school band Attica was signed to an indie record label.
-- I have 10k hours in the game Dota 2. -.-
+- I have 10k hours in the game Dota 2 and attended MLG Columbus and TI8 in Vancouver. -.-
 - HUGE foodie! It's a problem.
 
 <!--
