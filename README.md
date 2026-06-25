@@ -1,6 +1,6 @@
 ## Howdy 👋
 
-I'm Sonny, Founder @ [Codédex](https://www.codedex.io) and I'm based in Brooklyn, NY.
+I'm Sonny, Founder & Chief Vibes Officer @ [Codédex](https://www.codedex.io) and I'm based in Brooklyn, NY.
 Give our GitHub a follow!
 
 ### About me:
