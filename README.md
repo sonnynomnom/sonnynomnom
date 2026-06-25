@@ -12,8 +12,8 @@ Give our GitHub a follow!
 
 ### Fun facts:
 - My high school band Attica was signed to an indie record label.
-- I have 9.5k hours in the game Dota 2. -.-
-- I'm a huge foodie! It's a problem.
+- I have 10k hours in the game Dota 2. -.-
+- HUGE foodie! It's a problem.
 
 <!--
 **sonnynomnom/sonnynomnom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
