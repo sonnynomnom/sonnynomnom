@@ -6,7 +6,7 @@ I'm Sonny, Founder & Chief Vibes Officer @ [Codédex](https://www.codedex.io) an
 
 - Fam moved a bunch: Shanghai 🇨🇳, Paris 🇫🇷, Göttingen 🇩🇪, Oregon 🇺🇸, Ohio 🇺🇸.
 - I studied Computer Science at Ohio State University (6 brutal years). Then came to NYC to do my PhD (dropped out).
-- I taught CS at Columbia, NYU, CUNY, and worked at an EdTech company for five years before we sold it for $525m in 2022.
+- I taught CS at Columbia, NYU, CUNY, and worked at an EdTech company for five years before we sold it for $525m in 2021.
 - And now... finally, I'm building the startup of my dreams.
 
 ### Fun facts:
